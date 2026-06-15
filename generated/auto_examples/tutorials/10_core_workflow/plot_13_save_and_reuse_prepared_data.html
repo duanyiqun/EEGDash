@@ -125,8 +125,9 @@
 
   
 
-  <!-- Google Analytics 4 (gtag.js) — direct install for the EEGDash
-       property G-CHY0V439ZQ. This replaces the previous Google Tag
+  <!-- Google Analytics 4 + Google Ads (gtag.js) — direct install for the
+       EEGDash GA4 property G-CHY0V439ZQ and the Google Ads tag AW-1000742183.
+       This replaces the previous Google Tag
        Manager container (GTM-MXC3DGL6), which shipped NO GA4
        configuration tag and therefore collected nothing, and whose
        shared-container pattern risked cross-wiring eegdash traffic with
@@ -137,6 +138,10 @@
   <script>
     (function(){
       var GA4_ID = 'G-CHY0V439ZQ';
+      // Google Ads tag (AW-1000742183, provided by Arnaud Delorme). Rides the
+      // single gtag.js instance loaded for GA4 below — one library fetch, two
+      // gtag('config') calls — rather than loading gtag.js a second time.
+      var ADS_ID = 'AW-1000742183';
       function loadGA4(){
         if (window.__ga4Loaded) return;
         window.__ga4Loaded = true;
@@ -149,6 +154,7 @@
         window.gtag = gtag;
         gtag('js', new Date());
         gtag('config', GA4_ID);
+        gtag('config', ADS_ID);
       }
       // Defer GA4 off the critical path. requestIdleCallback wants an
       // IdleRequestOptions object as its second argument while
@@ -856,9 +862,9 @@ window kwargs).</p>
 <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;FIF write_s=</span><span class="si">{</span><a href="https://docs.python.org/3/library/functions.html#float" title="builtins.float" class="sphx-glr-backref-module-builtins sphx-glr-backref-type-py-class sphx-glr-backref-instance"><span class="n">fif_write_s</span></a><span class="si">:</span><span class="s2">.4f</span><span class="si">}</span><span class="s2"> s, size_mb=</span><span class="si">{</span><a href="https://docs.python.org/3/library/functions.html#float" title="builtins.float" class="sphx-glr-backref-module-builtins sphx-glr-backref-type-py-class sphx-glr-backref-instance"><span class="n">fif_size_mb</span></a><span class="si">:</span><span class="s2">.4f</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
 </pre></div>
 </div>
-<div class="sphx-glr-script-out highlight-none notranslate"><div class="highlight"><pre><span></span>saved: /tmp/eegdash_save_g4_lefia/windows
+<div class="sphx-glr-script-out highlight-none notranslate"><div class="highlight"><pre><span></span>saved: /tmp/eegdash_save_9n6hw3of/windows
 artifact tree (first 6): [&#39;windows/0&#39;, &#39;windows/0/0-raw.fif&#39;, &#39;windows/0/description.json&#39;, &#39;windows/0/metadata_df.pkl&#39;, &#39;windows/0/raw_preproc_kwargs.json&#39;, &#39;windows/0/window_kwargs.json&#39;]
-FIF write_s=0.0054 s, size_mb=0.0055
+FIF write_s=0.0056 s, size_mb=0.0055
 </pre></div>
 </div>
 </section>
@@ -955,7 +961,7 @@ on-disk MB into the same ledger.</p>
     <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Zarr extra not installed (pip install braindecode[hub]); skipping.&quot;</span><span class="p">)</span>
 </pre></div>
 </div>
-<div class="sphx-glr-script-out highlight-none notranslate"><div class="highlight"><pre><span></span>Zarr write_s=0.0170, read_s=0.0059, size_mb=0.0080
+<div class="sphx-glr-script-out highlight-none notranslate"><div class="highlight"><pre><span></span>Zarr write_s=0.0167, read_s=0.0060, size_mb=0.0080
 </pre></div>
 </div>
 </section>
@@ -1000,7 +1006,7 @@ relies on.</p>
 Cz_mean       float64
 Pz_mean       float64
 window_idx      int64
-Parquet write_s=0.0170, read_s=0.0126, size_mb=0.0024
+Parquet write_s=0.0168, read_s=0.0129, size_mb=0.0024
 </pre></div>
 </div>
 <div class="output_subarea output_html rendered_html output_result">
@@ -1104,22 +1110,22 @@ the Zarr row.</p>
     <tr>
       <th>0</th>
       <td>windows/ (FIF)</td>
-      <td>5.41</td>
-      <td>6.69</td>
+      <td>5.58</td>
+      <td>6.67</td>
       <td>0.005461</td>
     </tr>
     <tr>
       <th>1</th>
       <td>windows.zarr (Zarr)</td>
-      <td>16.98</td>
-      <td>5.94</td>
+      <td>16.69</td>
+      <td>5.96</td>
       <td>0.007955</td>
     </tr>
     <tr>
       <th>2</th>
       <td>features.parquet</td>
-      <td>16.97</td>
-      <td>12.64</td>
+      <td>16.82</td>
+      <td>12.89</td>
       <td>0.002384</td>
     </tr>
   </tbody>
@@ -1211,7 +1217,7 @@ git is unavailable (CI sandbox, source archive without <code class="docutils lit
     </tr>
     <tr>
       <th>git</th>
-      <td>1c83028</td>
+      <td>1f48077</td>
     </tr>
   </tbody>
 </table>
@@ -1247,7 +1253,7 @@ returning a corrupt dataset.</p>
     <span class="p">)</span>
 </pre></div>
 </div>
-<div class="sphx-glr-script-out highlight-none notranslate"><div class="highlight"><pre><span></span>Caught FileExistsError: Subdirectory /tmp/eegdash_save_g4_lefia/windows/0 already exists. Please select
+<div class="sphx-glr-script-out highlight-none notranslate"><div class="highlight"><pre><span></span>Caught FileExistsError: Subdirectory /tmp/eegdash_save_9n6hw3of/windows/0 already exists. Please select
 Recovery: rmtree + save without overwrite=True succeeded.
 Recovery: load_concat_dataset rejected broken layout (IndexError: list index out of range).
 </pre></div>
