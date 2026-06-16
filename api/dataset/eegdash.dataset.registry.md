@@ -6,34 +6,29 @@
 
 Fetch pre-aggregated chart data from API.
 
-This uses the optimized /datasets/chart-data endpoint which returns
-only chart-relevant fields and pre-computed aggregations.
+#### Deprecated
+Deprecated since version Shim: over `DatasetSnapshot`; new code should use
+`DatasetSnapshot.build(...)`.
 
-Falls back to /datasets/summary if chart-data endpoint is unavailable.
-
-* **Parameters:**
-  * **api_url** ([*str*](https://docs.python.org/3/library/stdtypes.html#str)) – Base API URL
-  * **database** ([*str*](https://docs.python.org/3/library/stdtypes.html#str)) – Database name
-  * **limit** ([*int*](https://docs.python.org/3/library/functions.html#int)) – Maximum datasets to fetch
 * **Returns:**
-  DataFrame with dataset records and dict with pre-computed aggregations
+  Rows and aggregations; empty 2-tuple on full failure (pre-B1 contract).
 * **Return type:**
-  [tuple](https://docs.python.org/3/library/stdtypes.html#tuple)[pd.DataFrame, [dict](https://docs.python.org/3/library/stdtypes.html#dict)]
+  [tuple](https://docs.python.org/3/library/stdtypes.html#tuple)[[pandas.DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html#pandas.DataFrame), [dict](https://docs.python.org/3/library/stdtypes.html#dict)]
 
 <!-- !! processed by numpydoc !! -->
 
 ### eegdash.dataset.registry.fetch_datasets_from_api(api_url: [str](https://docs.python.org/3/library/stdtypes.html#str) = 'https://data.eegdash.org/api', database: [str](https://docs.python.org/3/library/stdtypes.html#str) = 'eegdash', force_refresh: [bool](https://docs.python.org/3/library/functions.html#bool) = False) → [DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html#pandas.DataFrame)
 
-Fetch dataset summaries from API and return as DataFrame matching CSV structure.
+Fetch dataset summaries from API and return as DataFrame.
 
-Note: This function makes a single API call to /datasets/summary.
-Stats (nchans_counts, sfreq_counts) are already embedded in dataset documents
-via the compute-stats endpoint, so no separate stats call is needed.
+#### Deprecated
+Deprecated since version Shim: over `DatasetSnapshot`; new code should use
+`DatasetSnapshot.build(...)`.
 
-* **Parameters:**
-  * **api_url** ([*str*](https://docs.python.org/3/library/stdtypes.html#str)) – Base API URL.
-  * **database** ([*str*](https://docs.python.org/3/library/stdtypes.html#str)) – Database name.
-  * **force_refresh** ([*bool*](https://docs.python.org/3/library/functions.html#bool)) – If True, bypass the local cache and always fetch from the API.
+* **Returns:**
+  Empty on full failure (pre-B1 silent-empty contract).
+* **Return type:**
+  [pandas.DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html#pandas.DataFrame)
 
 <!-- !! processed by numpydoc !! -->
 

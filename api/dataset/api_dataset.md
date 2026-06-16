@@ -25,19 +25,23 @@ type (847 datasets in this build).
 
 | Experimental Type     |   Datasets |
 |-----------------------|------------|
-| nan                   |        265 |
-| Attention             |        116 |
-| Perception            |        116 |
-| Clinical/Intervention |         84 |
-| Motor                 |         66 |
-| Memory                |         50 |
-| Other                 |         37 |
-| Affect                |         18 |
-| Decision-making       |         17 |
-| Learning              |         16 |
+| Attention             |        143 |
+| Perception            |        142 |
+| Clinical/Intervention |        100 |
+| Unspecified           |         97 |
+| Motor                 |         82 |
+| Memory                |         62 |
+| Decision-making       |         44 |
+| Other                 |         40 |
+| Affect                |         39 |
+| Learning              |         27 |
 | Resting-state         |         15 |
 | Unknown               |         14 |
-| Sleep                 |         10 |
+| Sleep                 |         13 |
+| Resting state         |          3 |
+| Attention/Memory      |          1 |
+| Memory/Resting state  |          1 |
+| other                 |          1 |
 
 ## All Datasets
 

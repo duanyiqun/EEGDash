@@ -68,7 +68,7 @@ Automated clients: prefer the structured resources listed under
 ## API reference pages (per-module)
 
 
-## Dataset pages (N=6)
+## Dataset pages (N=7)
 
 Every EEGDash dataset has a dedicated Sphinx page with its BIDS metadata, upstream citation, and load-in-Python snippet. The full interactive catalog lives at <https://eegdash.org/dataset_summary.html>; the list below is what sitemap / agent crawlers should enumerate.
 
@@ -78,5 +78,6 @@ Every EEGDash dataset has a dedicated Sphinx page with its BIDS metadata, upstre
 - [exceptions](https://eegdash.org/api/dataset/eegdash.dataset.exceptions.html)
 - [io](https://eegdash.org/api/dataset/eegdash.dataset.io.html)
 - [registry](https://eegdash.org/api/dataset/eegdash.dataset.registry.html)
+- [snapshot](https://eegdash.org/api/dataset/eegdash.dataset.snapshot.html)
 
 ---

@@ -305,7 +305,7 @@ Evidence accumulation relates to perceptual consciousness and monitoring
 
 Also importable as: `DS001785`, `Pereira2019_Evidence`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 18; recordings: 54; tasks: 3.
 
 * **Parameters:**
@@ -377,7 +377,7 @@ EEG meditation study
 
 Also importable as: `DS001787`, `Delorme2019`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 24; recordings: 40; tasks: 1.
 
 * **Parameters:**
@@ -449,7 +449,7 @@ EEG study of the attentional blink; before, during, and after transcranial Direc
 
 Also importable as: `DS001810`, `Reteig2019`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 47; recordings: 263; tasks: 1.
 
 * **Parameters:**
@@ -521,7 +521,7 @@ RS_TMSEEG_Data
 
 Also importable as: `DS001849`, `Freedberg2019`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Clinical/Intervention`; Subject type: `Healthy`.
 Subjects: 20; recordings: 120; tasks: 1.
 
 * **Parameters:**
@@ -593,7 +593,7 @@ Audiocue walking study
 
 Also importable as: `DS001971`, `Wagner2019`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Motor`; Subject type: `Healthy`.
 Subjects: 20; recordings: 273; tasks: 1.
 
 * **Parameters:**
@@ -737,7 +737,7 @@ Real-time EEG feedback on alpha power lateralization leads to behavioral improve
 
 Also importable as: `DS002034`, `Schneider2019`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 14; recordings: 167; tasks: 4.
 
 * **Parameters:**
@@ -880,7 +880,7 @@ Disentangling the origins of confidence in speeded perceptual judgments through 
 
 Also importable as: `DS002158`, `Pereira2019_Disentangling`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Affect`; Subject type: `Healthy`.
 Subjects: 20; recordings: 117; tasks: 1.
 
 * **Parameters:**
@@ -1024,7 +1024,7 @@ Auditory and Visual Rhythm Omission EEG
 
 Also importable as: `DS002218`, `Comstock2019`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 18; recordings: 18; tasks: 1.
 
 * **Parameters:**
@@ -1167,7 +1167,7 @@ A multi-modal human neuroimaging dataset for data integration: simultaneous EEG 
 
 Also importable as: `DS002336`, `Lioi2019_multi`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Motor`; Subject type: `Healthy`.
 Subjects: 10; recordings: 54; tasks: 6.
 
 * **Parameters:**
@@ -1239,7 +1239,7 @@ A multi-modal human neuroimaging dataset for data integration: simultaneous EEG 
 
 Also importable as: `DS002338`, `Lioi2019_multi_modal`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Motor`; Subject type: `Healthy`.
 Subjects: 17; recordings: 85; tasks: 4.
 
 * **Parameters:**
@@ -1383,7 +1383,7 @@ Visual Oddball Task (256 channels)
 
 Also importable as: `DS002578`, `Delorme2020_Visual_Oddball_256`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 2; recordings: 2; tasks: 1.
 
 * **Parameters:**
@@ -1455,7 +1455,7 @@ Go-nogo categorization and detection task
 
 Also importable as: `DS002680`, `Delorme2020_Go_nogo_categorization`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Motor`; Subject type: `Healthy`.
 Subjects: 14; recordings: 350; tasks: 1.
 
 * **Parameters:**
@@ -1527,7 +1527,7 @@ Internal attention study
 
 Also importable as: `DS002691`, `Delorme2020_Internal_attention`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 20; recordings: 20; tasks: 1.
 
 * **Parameters:**
@@ -1671,7 +1671,7 @@ Face processing EEG dataset for EEGLAB
 
 Also importable as: `DS002718`, `Wakeman2020`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 18; recordings: 18; tasks: 1.
 
 * **Parameters:**
@@ -1743,7 +1743,7 @@ A  dataset  recorded  during  development  of a  tempo-based  brain-computer  mu
 
 Also importable as: `DS002720`, `Daly2020_recorded`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Affect`; Subject type: `Healthy`.
 Subjects: 18; recordings: 165; tasks: 0.
 
 * **Parameters:**
@@ -1815,7 +1815,7 @@ An EEG dataset recorded during affective music listening
 
 Also importable as: `DS002721`, `Daly2020_recorded_affective`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Affect`; Subject type: `Healthy`.
 Subjects: 31; recordings: 185; tasks: 0.
 
 * **Parameters:**
@@ -1887,7 +1887,7 @@ A dataset recorded during development of an affective brain-computer music inter
 
 Also importable as: `DS002722`, `Daly2020_recorded_development`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Affect`; Subject type: `Healthy`.
 Subjects: 19; recordings: 94; tasks: 0.
 
 * **Parameters:**
@@ -1959,7 +1959,7 @@ A dataset recorded during development of an affective brain-computer music inter
 
 Also importable as: `DS002723`, `Daly2020_session`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Affect`; Subject type: `Healthy`.
 Subjects: 8; recordings: 44; tasks: 0.
 
 * **Parameters:**
@@ -2031,7 +2031,7 @@ A dataset recorded during development of an affective brain-computer music inter
 
 Also importable as: `DS002724`, `Daly2020_sessions`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Affect`; Subject type: `Healthy`.
 Subjects: 10; recordings: 96; tasks: 0.
 
 * **Parameters:**
@@ -2103,7 +2103,7 @@ A dataset recording joint EEG-fMRI during affective music listening
 
 Also importable as: `DS002725`, `Daly2020_joint`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Affect`; Subject type: `Healthy`.
 Subjects: 21; recordings: 105; tasks: 5.
 
 * **Parameters:**
@@ -2247,7 +2247,7 @@ UC San Diego Resting State EEG Data from Patients with Parkinson’s Disease
 
 Also importable as: `DS002778`, `Rockhill2020`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Resting state`; Subject type: `Parkinson's`.
 Subjects: 31; recordings: 46; tasks: 1.
 
 * **Parameters:**
@@ -2462,7 +2462,7 @@ A Multimodal Neuroimaging Dataset to Study Spatiotemporal Dynamics of Visual Pro
 
 Also importable as: `DS002814`, `Ebrahiminia2020`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 21; recordings: 168; tasks: 1.
 
 * **Parameters:**
@@ -2678,7 +2678,7 @@ Auditory-Visual Shift Study
 
 Also importable as: `DS002893`, `Westerfield2022`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 49; recordings: 52; tasks: 1.
 
 * **Parameters:**
@@ -2822,7 +2822,7 @@ Imagined Emotion Study
 
 Also importable as: `DS003004`, `Onton2020`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Affect`; Subject type: `Healthy`.
 Subjects: 34; recordings: 34; tasks: 1.
 
 * **Parameters:**
@@ -2966,7 +2966,7 @@ free walking study
 
 Also importable as: `DS003039`, `Jacobsen2020`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Motor`; Subject type: `Healthy`.
 Subjects: 19; recordings: 19; tasks: 1.
 
 * **Parameters:**
@@ -3398,7 +3398,7 @@ Neuroepo multisession
 
 Also importable as: `DS003194`, `Vega2020_Neuroepo`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Clinical/Intervention`; Subject type: `Parkinson's`.
 Subjects: 15; recordings: 29; tasks: 2.
 
 * **Parameters:**
@@ -3470,7 +3470,7 @@ Placebo Neuroepo multisession
 
 Also importable as: `DS003195`, `Vega2020_Placebo`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Clinical/Intervention`; Subject type: `Parkinson's`.
 Subjects: 10; recordings: 20; tasks: 2.
 
 * **Parameters:**
@@ -3542,7 +3542,7 @@ Disentangling the percepts of illusory movement and sensory stimulation during t
 
 Also importable as: `DS003343`, `Schneider2020`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 20; recordings: 59; tasks: 1.
 
 * **Parameters:**
@@ -3973,7 +3973,7 @@ HD-EEGtask(Dataset 2)
 
 Also importable as: `DS003421`, `Mheich2020_HD_EEGtask`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Healthy`.
 Subjects: 20; recordings: 80; tasks: 1.
 
 * **Parameters:**
@@ -4045,7 +4045,7 @@ EEG: Three armed bandit gambling task
 
 Also importable as: `DS003458`, `Cavanagh2021_Three`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Affect`; Subject type: `Healthy`.
 Subjects: 23; recordings: 23; tasks: 1.
 
 * **Parameters:**
@@ -4117,7 +4117,7 @@ EEG: Probabilistic Selection and Depression
 
 Also importable as: `DS003474`, `Cavanagh2021_Probabilistic`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Healthy`.
 Subjects: 122; recordings: 122; tasks: 1.
 
 * **Parameters:**
@@ -4189,7 +4189,7 @@ EEG: Depression rest
 
 Also importable as: `DS003478`, `Cavanagh2021_Depression`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Resting state`; Subject type: `Healthy`.
 Subjects: 122; recordings: 243; tasks: 1.
 
 * **Parameters:**
@@ -4333,7 +4333,7 @@ EEG: 3-Stim Auditory Oddball and Rest in Parkinson’s
 
 Also importable as: `DS003490`, `Cavanagh2021_3`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Parkinson's`.
 Subjects: 50; recordings: 75; tasks: 1.
 
 * **Parameters:**
@@ -4477,7 +4477,7 @@ VEPCON: Source imaging of high-density visual evoked potentials with multi-scale
 
 Also importable as: `DS003505`, `Pascucci2021`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 19; recordings: 37; tasks: 2.
 
 * **Parameters:**
@@ -4549,7 +4549,7 @@ EEG: Reinforcement Learning in Parkinson’s
 
 Also importable as: `DS003506`, `Cavanagh2021_Reinforcement`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Parkinson's`.
 Subjects: 56; recordings: 84; tasks: 1.
 
 * **Parameters:**
@@ -4621,7 +4621,7 @@ EEG: Simon Conflict in Parkinson’s
 
 Also importable as: `DS003509`, `Cavanagh2021_Simon`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Learning`; Subject type: `Parkinson's`.
 Subjects: 56; recordings: 84; tasks: 1.
 
 * **Parameters:**
@@ -4693,7 +4693,7 @@ EEG: Attended Speaker Paradigm (Own Name in Ignored Stream)
 
 Also importable as: `DS003516`, `Holtze2021`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 25; recordings: 25; tasks: 1.
 
 * **Parameters:**
@@ -4765,7 +4765,7 @@ EEG: Continuous gameplay of an 8-bit style video game
 
 Also importable as: `DS003517`, `Cavanagh2021_Continuous`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Learning`; Subject type: `Healthy`.
 Subjects: 17; recordings: 34; tasks: 1.
 
 * **Parameters:**
@@ -4837,7 +4837,7 @@ EEG: Simon Conflict w/ Reinforcement + Cabergoline Challenge
 
 Also importable as: `DS003518`, `Cavanagh2021_Simon_Conflict`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Clinical/Intervention`; Subject type: `Healthy`.
 Subjects: 110; recordings: 137; tasks: 1.
 
 * **Parameters:**
@@ -4909,7 +4909,7 @@ EEG: Visual Working Memory + Cabergoline Challenge
 
 Also importable as: `DS003519`, `Cavanagh2021_Visual`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Clinical/Intervention`; Subject type: `Healthy`.
 Subjects: 27; recordings: 54; tasks: 1.
 
 * **Parameters:**
@@ -4981,7 +4981,7 @@ EEG: Three-Stim Auditory Oddball and Rest in Acute and Chronic TBI
 
 Also importable as: `DS003522`, `Cavanagh2021_Three_Stim`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `TBI`.
 Subjects: 96; recordings: 200; tasks: 1.
 
 * **Parameters:**
@@ -5053,7 +5053,7 @@ EEG: Visual Working Memory in Acute TBI
 
 Also importable as: `DS003523`, `Cavanagh2021_Visual_Working`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Memory`; Subject type: `TBI`.
 Subjects: 91; recordings: 221; tasks: 1.
 
 * **Parameters:**
@@ -5125,7 +5125,7 @@ Dataset of EEG recordings of pediatric patients with epilepsy based on the 10-20
 
 Also importable as: `DS003555`, `Cserpan2021`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Clinical/Intervention`; Subject type: `Epilepsy`.
 Subjects: 30; recordings: 30; tasks: 1.
 
 * **Parameters:**
@@ -5269,7 +5269,7 @@ EEG: Improvisation and Musical Structures
 
 Also importable as: `DS003570`, `Goldman2021`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Healthy`.
 Subjects: 40; recordings: 40; tasks: 1.
 
 * **Parameters:**
@@ -5341,7 +5341,7 @@ Reward biases spontaneous neural reactivation during sleep
 
 Also importable as: `DS003574`, `Sterpenich2021`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Affect`; Subject type: `Healthy`.
 Subjects: 18; recordings: 18; tasks: 1.
 
 * **Parameters:**
@@ -5413,7 +5413,7 @@ Childhood Sexual Abuse and problem drinking in women: Neurobehavioral mechanisms
 
 Also importable as: `DS003602`, `Korucuoglu2021`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Other`.
 Subjects: 118; recordings: 699; tasks: 6.
 
 * **Parameters:**
@@ -5557,7 +5557,7 @@ Inner Speech
 
 Also importable as: `DS003626`, `Nieto2021`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Motor`; Subject type: `Healthy`.
 Subjects: 10; recordings: 30; tasks: 1.
 
 * **Parameters:**
@@ -5702,7 +5702,7 @@ from cross-species paradigms
 
 Also importable as: `DS003638`, `Cavanagh2021_Electrophysiological`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Healthy`.
 Subjects: 57; recordings: 57; tasks: 1.
 
 * **Parameters:**
@@ -5774,7 +5774,7 @@ Face processing MEEG dataset with HED annotation
 
 Also importable as: `DS003645`, `Wakeman2021`.
 
-Modality: `eeg, meg`.
+Modality: `eeg, meg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 19; recordings: 224; tasks: 2.
 
 * **Parameters:**
@@ -5846,7 +5846,7 @@ VerbalWorkingMemory
 
 Also importable as: `DS003655`, `Pavlov2021_VerbalWorkingMemory`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Memory`; Subject type: `Healthy`.
 Subjects: 156; recordings: 156; tasks: 1.
 
 * **Parameters:**
@@ -6134,7 +6134,7 @@ EEG, ECG and pupil data from young and older adults: rest and auditory cued reac
 
 Also importable as: `DS003690`, `Ribeiro2021`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Healthy`.
 Subjects: 75; recordings: 375; tasks: 3.
 
 * **Parameters:**
@@ -6278,7 +6278,7 @@ Social Memory cuing
 
 Also importable as: `DS003702`, `Gregory2021`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Memory`; Subject type: `Healthy`.
 Subjects: 47; recordings: 47; tasks: 1.
 
 * **Parameters:**
@@ -6494,7 +6494,7 @@ APPLESEED Example Dataset
 
 Also importable as: `DS003710`, `Williams2021`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 13; recordings: 48; tasks: 1.
 
 * **Parameters:**
@@ -6566,7 +6566,7 @@ Perturbed beam-walking task
 
 Also importable as: `DS003739`, `Peterson2021_Perturbed_beam_walking`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 30; recordings: 120; tasks: 4.
 
 * **Parameters:**
@@ -6638,7 +6638,7 @@ Dataset on Emotion with Naturalistic Stimuli (DENS)
 
 Also importable as: `DS003751`, `Mishra2021`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Affect`; Subject type: `Healthy`.
 Subjects: 38; recordings: 38; tasks: 1.
 
 * **Parameters:**
@@ -6699,7 +6699,7 @@ NEMAR citation count: 7
 
 Bases: [`EEGDashDataset`](eegdash.EEGDashDataset.md#eegdash.EEGDashDataset)
 
-EEG: Probabilistic Learning with Affective Feedback: Exp
+EEG: Probabilistic Learning with Affective Feedback: Exp #2
 
 * **Study:**
   `ds003753` (OpenNeuro)
@@ -6709,6 +6709,8 @@ EEG: Probabilistic Learning with Affective Feedback: Exp
   —
 
 Also importable as: `DS003753`, `Brown2021_Probabilistic`.
+
+Modality: `eeg`; Experiment type: `Learning`; Subject type: `Healthy`.
 Subjects: 25; recordings: 25; tasks: 1.
 
 * **Parameters:**
@@ -6749,6 +6751,8 @@ Dataset-specific caveats are not provided in the summary metadata.
 
 OpenNeuro dataset: [https://openneuro.org/datasets/ds003753](https://openneuro.org/datasets/ds003753)
 NeMAR dataset: [https://nemar.org/dataexplorer/detail?dataset_id=ds003753](https://nemar.org/dataexplorer/detail?dataset_id=ds003753)
+DOI: [https://doi.org/10.18112/openneuro.ds003753.v1.1.0](https://doi.org/10.18112/openneuro.ds003753.v1.1.0)
+NEMAR citation count: 0
 
 ### Examples
 
@@ -6778,7 +6782,7 @@ A resource for assessing dynamic binary choices in the adult brain using EEG and
 
 Also importable as: `DS003766`, `Chen2021`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Healthy`.
 Subjects: 31; recordings: 124; tasks: 4.
 
 * **Parameters:**
@@ -6850,7 +6854,7 @@ Simultaneous EEG and fMRI signals during sleep from humans
 
 Also importable as: `DS003768`, `Gu2021`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Sleep`; Subject type: `Healthy`.
 Subjects: 33; recordings: 255; tasks: 2.
 
 * **Parameters:**
@@ -7138,7 +7142,7 @@ Neural Tracking to go
 
 Also importable as: `DS003801`, `Straetmans2021`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 20; recordings: 20; tasks: 1.
 
 * **Parameters:**
@@ -7210,7 +7214,7 @@ Multisensory Gamma Entrainment
 
 Also importable as: `DS003805`, `Lahijanian2021_Multisensory`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Learning`; Subject type: `Healthy`.
 Subjects: 1; recordings: 1; tasks: 1.
 
 * **Parameters:**
@@ -7282,7 +7286,7 @@ Motor Imagery vs Rest - Low-Cost EEG System
 
 Also importable as: `DS003810`, `Peterson2021_Motor_Imagery_vs`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Clinical/Intervention`; Subject type: `Healthy`.
 Subjects: 10; recordings: 50; tasks: 1.
 
 * **Parameters:**
@@ -7354,7 +7358,7 @@ The Effect of Buddhism Derived Loving Kindness Meditation on Modulating EEG: Lon
 
 Also importable as: `DS003816`, `Sun2024`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Affect`; Subject type: `Healthy`.
 Subjects: 48; recordings: 1077; tasks: 8.
 
 * **Parameters:**
@@ -7414,7 +7418,7 @@ DOI: [https://doi.org/10.18112/openneuro.ds003816.v1.0.1](https://doi.org/10.181
 
 Bases: [`EEGDashDataset`](eegdash.EEGDashDataset.md#eegdash.EEGDashDataset)
 
-EEG: Probabilistic Learning with Affective Feedback: Exp
+EEG: Probabilistic Learning with Affective Feedback: Exp #1
 
 * **Study:**
   `ds003822` (OpenNeuro)
@@ -7424,6 +7428,8 @@ EEG: Probabilistic Learning with Affective Feedback: Exp
   —
 
 Also importable as: `DS003822`, `Brown2021_Probabilistic_Learning`.
+
+Modality: `eeg`; Experiment type: `Affect`; Subject type: `Healthy`.
 Subjects: 25; recordings: 25; tasks: 1.
 
 * **Parameters:**
@@ -7464,6 +7470,8 @@ Dataset-specific caveats are not provided in the summary metadata.
 
 OpenNeuro dataset: [https://openneuro.org/datasets/ds003822](https://openneuro.org/datasets/ds003822)
 NeMAR dataset: [https://nemar.org/dataexplorer/detail?dataset_id=ds003822](https://nemar.org/dataexplorer/detail?dataset_id=ds003822)
+DOI: [https://doi.org/10.18112/openneuro.ds003822.v1.1.0](https://doi.org/10.18112/openneuro.ds003822.v1.1.0)
+NEMAR citation count: 0
 
 ### Examples
 
@@ -7493,7 +7501,7 @@ Human electroencephalography recordings from 50 subjects for 22,248 images from 
 
 Also importable as: `DS003825`, `Grootswagers2021`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 50; recordings: 50; tasks: 1.
 
 * **Parameters:**
@@ -7565,7 +7573,7 @@ EEG, pupillometry, ECG and photoplethysmography, and behavioral data in the digi
 
 Also importable as: `DS003838`, `Pavlov2021_pupillometry`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Memory`; Subject type: `Healthy`.
 Subjects: 65; recordings: 130; tasks: 2.
 
 * **Parameters:**
@@ -7709,7 +7717,7 @@ Prediction Error
 
 Also importable as: `DS003846`, `Gehrke2021`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Healthy`.
 Subjects: 19; recordings: 50; tasks: 1.
 
 * **Parameters:**
@@ -7925,7 +7933,7 @@ Capacity for movement is an organisational principle in object representations: 
 
 Also importable as: `DS003885`, `Shatek2021_E1`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 24; recordings: 24; tasks: 1.
 
 * **Parameters:**
@@ -7997,7 +8005,7 @@ Capacity for movement is an organisational principle in object representations: 
 
 Also importable as: `DS003887`, `Shatek2021_E2`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 24; recordings: 24; tasks: 1.
 
 * **Parameters:**
@@ -8141,7 +8149,7 @@ EEG: First Episode Psychosis vs. Control Resting Task 1
 
 Also importable as: `DS003944`, `Salisbury2021_First`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Clinical/Intervention`; Subject type: `Schizophrenia/Psychosis`.
 Subjects: 82; recordings: 82; tasks: 1.
 
 * **Parameters:**
@@ -8213,7 +8221,7 @@ EEG: First Episode Psychosis vs. Control Resting Task 2
 
 Also importable as: `DS003947`, `Salisbury2021_First_Episode`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Clinical/Intervention`; Subject type: `Schizophrenia/Psychosis`.
 Subjects: 61; recordings: 61; tasks: 1.
 
 * **Parameters:**
@@ -8285,7 +8293,7 @@ Meditation vs thinking task
 
 Also importable as: `DS003969`, `Delorme2021`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 98; recordings: 392; tasks: 4.
 
 * **Parameters:**
@@ -8357,7 +8365,7 @@ EEG: Amphetamine trials 5CCPT and Probabilistic Learning
 
 Also importable as: `DS003987`, `Cavanagh2022_Amphetamine_trials_5`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 23; recordings: 69; tasks: 1.
 
 * **Parameters:**
@@ -8429,7 +8437,7 @@ Fribourg Ultimatum Game in Schizophrenia Study
 
 Also importable as: `DS004000`, `Padee2022`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Schizophrenia/Psychosis`.
 Subjects: 43; recordings: 86; tasks: 2.
 
 * **Parameters:**
@@ -8501,7 +8509,7 @@ MAVIS
 
 Also importable as: `DS004010`, `Waschke2022`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 24; recordings: 24; tasks: 1.
 
 * **Parameters:**
@@ -8717,7 +8725,7 @@ Attended speaker paradigm (cEEGrid data)
 
 Also importable as: `DS004015`, `Holtze2022_Attended`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 36; recordings: 36; tasks: 1.
 
 * **Parameters:**
@@ -8861,7 +8869,7 @@ EEG recordings for 200 object images presented in RSVP sequences at 5Hz or 20Hz
 
 Also importable as: `DS004018`, `Grootswagers2022_RSVP`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Learning`; Subject type: `Healthy`.
 Subjects: 16; recordings: 32; tasks: 1.
 
 * **Parameters:**
@@ -9005,7 +9013,7 @@ Multimodal EEG and fNIRS Biosignal Acquisition during Motor Imagery Tasks in Pat
 
 Also importable as: `DS004022`, `Lee2022`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Motor`; Subject type: `Other`.
 Subjects: 7; recordings: 21; tasks: 1.
 
 * **Parameters:**
@@ -9077,7 +9085,7 @@ TMS-EEG-MRI-fMRI-DWI data on paired associative stimulation and connectivity (Sh
 
 Also importable as: `DS004024`, `Pavon2022`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Clinical/Intervention`; Subject type: `Healthy`.
 Subjects: 13; recordings: 497; tasks: 3.
 
 * **Parameters:**
@@ -9221,7 +9229,7 @@ Trance channeling EEG study
 
 Also importable as: `DS004040`, `Cannard2022`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Other`; Subject type: `Healthy`.
 Subjects: 13; recordings: 26; tasks: 1.
 
 * **Parameters:**
@@ -9293,7 +9301,7 @@ The time-course of feature-based attention effects dissociated from temporal exp
 
 Also importable as: `DS004043`, `Moerel2022_time`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 20; recordings: 20; tasks: 1.
 
 * **Parameters:**
@@ -9365,7 +9373,7 @@ Moral conviction and metacognitive ability shape multiple stages of information 
 
 Also importable as: `DS004067`, `Yoder2022`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Affect`; Subject type: `Healthy`.
 Subjects: 80; recordings: 84; tasks: 1.
 
 * **Parameters:**
@@ -9941,7 +9949,7 @@ Sternberg Working Memory
 
 Also importable as: `DS004117`, `Onton2022`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Memory`; Subject type: `Healthy`.
 Subjects: 23; recordings: 85; tasks: 1.
 
 * **Parameters:**
@@ -10734,7 +10742,7 @@ Drum Trainer
 
 Also importable as: `DS004152`, `Hassall2022_Drum`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Learning`; Subject type: `Healthy`.
 Subjects: 21; recordings: 21; tasks: 1.
 
 * **Parameters:**
@@ -10950,7 +10958,7 @@ Bimodal dataset on Inner speech
 
 Also importable as: `DS004196`, `Liwicki2022`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Clinical/Intervention`; Subject type: `Healthy`.
 Subjects: 4; recordings: 4; tasks: 1.
 
 * **Parameters:**
@@ -11022,7 +11030,7 @@ Temporal Scaling
 
 Also importable as: `DS004200`, `Hassall2022_Temporal`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 20; recordings: 20; tasks: 1.
 
 * **Parameters:**
@@ -11238,7 +11246,7 @@ Rotation-tolerant representations elucidate the time course of high-level object
 
 Also importable as: `DS004252`, `Moerel2022_Rotation`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 16; recordings: 16; tasks: 1.
 
 * **Parameters:**
@@ -11382,7 +11390,7 @@ Continuous Feedback Processing
 
 Also importable as: `DS004262`, `Hassall2022_Continuous`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Learning`; Subject type: `Healthy`.
 Subjects: 21; recordings: 21; tasks: 1.
 
 * **Parameters:**
@@ -11454,7 +11462,7 @@ Steer the Ship
 
 Also importable as: `DS004264`, `Hassall2022_Steer`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Learning`; Subject type: `Healthy`.
 Subjects: 21; recordings: 21; tasks: 1.
 
 * **Parameters:**
@@ -11670,7 +11678,7 @@ Large Spanish EEG
 
 Also importable as: `DS004279`, `Araya2022`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 56; recordings: 60; tasks: 1.
 
 * **Parameters:**
@@ -11742,7 +11750,7 @@ eeg-neuroforecasting
 
 Also importable as: `DS004284`, `Veillette2022`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Healthy`.
 Subjects: 18; recordings: 18; tasks: 1.
 
 * **Parameters:**
@@ -11814,7 +11822,7 @@ Reward gain and punishment avoidance reversal learning
 
 Also importable as: `DS004295`, `Stolz2022`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Learning`; Subject type: `Healthy`.
 Subjects: 26; recordings: 26; tasks: 1.
 
 * **Parameters:**
@@ -11886,7 +11894,7 @@ EEG Semantic Imagination and Perception Dataset
 
 Also importable as: `DS004306`, `Wilson2022`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 12; recordings: 15; tasks: 1.
 
 * **Parameters:**
@@ -11958,7 +11966,7 @@ Mood Manipulation and PST, Experiment 1
 
 Also importable as: `DS004315`, `Cavanagh2022_E1`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Affect`; Subject type: `Healthy`.
 Subjects: 50; recordings: 50; tasks: 1.
 
 * **Parameters:**
@@ -12030,7 +12038,7 @@ Mood Manipulation and PST, Experiment 2
 
 Also importable as: `DS004317`, `Cavanagh2022_E2`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Affect`; Subject type: `Healthy`.
 Subjects: 50; recordings: 50; tasks: 1.
 
 * **Parameters:**
@@ -12102,7 +12110,7 @@ ToonFaces
 
 Also importable as: `DS004324`, `Chacon2022`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Affect`; Subject type: `Healthy`.
 Subjects: 26; recordings: 26; tasks: 1.
 
 * **Parameters:**
@@ -12318,7 +12326,7 @@ Symmetry perception and affective responses: a combined EEG/EMG study
 
 Also importable as: `DS004347`, `Makin2022`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 24; recordings: 24; tasks: 1.
 
 * **Parameters:**
@@ -12390,7 +12398,7 @@ Ear-EEG Sleep Monitoring 2017 (EESM17)
 
 Also importable as: `DS004348`, `Mikkelsen2022`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Sleep`; Subject type: `Healthy`.
 Subjects: 9; recordings: 18; tasks: 2.
 
 * **Parameters:**
@@ -12462,7 +12470,7 @@ Executive Functionning Study for Assessing the Effect of Neurofeedback
 
 Also importable as: `DS004350`, `Delorme2022`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Memory`; Subject type: `Healthy`.
 Subjects: 24; recordings: 240; tasks: 5.
 
 * **Parameters:**
@@ -12534,7 +12542,7 @@ Subcortical responses to music and speech are alike while cortical responses div
 
 Also importable as: `DS004356`, `Shan2022`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 22; recordings: 24; tasks: 1.
 
 * **Parameters:**
@@ -12606,7 +12614,7 @@ Features-EEG
 
 Also importable as: `DS004357`, `Grootswagers2022_EEG`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 16; recordings: 16; tasks: 1.
 
 * **Parameters:**
@@ -12678,7 +12686,7 @@ EEG Motor Movement/Imagery Dataset
 
 Also importable as: `DS004362`, `Schalk2022`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Motor`; Subject type: `Healthy`.
 Subjects: 109; recordings: 1526; tasks: 1.
 
 * **Parameters:**
@@ -12750,7 +12758,7 @@ Meta-rdk: Raw EEG data
 
 Also importable as: `DS004367`, `Rouy2022_Meta`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Schizophrenia/Psychosis`.
 Subjects: 40; recordings: 40; tasks: 1.
 
 * **Parameters:**
@@ -12822,7 +12830,7 @@ Meta-rdk: Preprocessed EEG data
 
 Also importable as: `DS004368`, `Rouy2022_Meta_rdk`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Schizophrenia/Psychosis`.
 Subjects: 39; recordings: 40; tasks: 1.
 
 * **Parameters:**
@@ -12894,7 +12902,7 @@ Blink-Pause-Relation (Competing Speaker Paradigm)
 
 Also importable as: `DS004369`, `Holtze2022_Blink`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 41; recordings: 41; tasks: 1.
 
 * **Parameters:**
@@ -13038,7 +13046,7 @@ Intraoperative EEG dataset during medianus-tibialis stimulation with 8 different
 
 Also importable as: `DS004381`, `Selmin2022`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Other`; Subject type: `Surgery`.
 Subjects: 18; recordings: 437; tasks: 1.
 
 * **Parameters:**
@@ -13398,7 +13406,7 @@ EEG responses to continuous naturalistic speech
 
 Also importable as: `DS004408`, `Liberto2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Other`; Subject type: `Healthy`.
 Subjects: 19; recordings: 380; tasks: 1.
 
 * **Parameters:**
@@ -13470,7 +13478,7 @@ The BMI-HDEEG dataset 1
 
 Also importable as: `DS004444`, `Iwama2023_D1`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Motor`; Subject type: `Healthy`.
 Subjects: 30; recordings: 465; tasks: 1.
 
 * **Parameters:**
@@ -13542,7 +13550,7 @@ The BMI-HDEEG dataset 2
 
 Also importable as: `DS004446`, `Iwama2023_D2`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Motor`; Subject type: `Healthy`.
 Subjects: 30; recordings: 237; tasks: 1.
 
 * **Parameters:**
@@ -13614,7 +13622,7 @@ The BMI-HDEEG dataset 3
 
 Also importable as: `DS004447`, `Iwama2023_D3`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Motor`; Subject type: `Healthy`.
 Subjects: 22; recordings: 418; tasks: 1.
 
 * **Parameters:**
@@ -13686,7 +13694,7 @@ The BMI-HDEEG dataset 4
 
 Also importable as: `DS004448`, `Iwama2023_D4`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Motor`; Subject type: `Healthy`.
 Subjects: 56; recordings: 280; tasks: 1.
 
 * **Parameters:**
@@ -13830,7 +13838,7 @@ EEG and motion capture data set for a full-body/joystick rotation task
 
 Also importable as: `DS004460`, `Gramann2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 20; recordings: 40; tasks: 1.
 
 * **Parameters:**
@@ -13974,7 +13982,7 @@ Mobile EEG split-belt walking study
 
 Also importable as: `DS004475`, `Jacobsen2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Motor`; Subject type: `Healthy`.
 Subjects: 30; recordings: 30; tasks: 1.
 
 * **Parameters:**
@@ -14046,7 +14054,7 @@ PES - Pandemic Emergency Scenario
 
 Also importable as: `DS004477`, `Papastylianou2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Healthy`.
 Subjects: 9; recordings: 9; tasks: 1.
 
 * **Parameters:**
@@ -14262,7 +14270,7 @@ A dataset of EEG recordings from: Alzheimer’s disease, Frontotemporal dementia
 
 Also importable as: `DS004504`, `Miltiadous2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Clinical/Intervention`; Subject type: `Dementia`.
 Subjects: 88; recordings: 88; tasks: 1.
 
 * **Parameters:**
@@ -14334,7 +14342,7 @@ Real World Table Tennis
 
 Also importable as: `DS004505`, `Studnicki2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Motor`; Subject type: `Healthy`.
 Subjects: 25; recordings: 25; tasks: 1.
 
 * **Parameters:**
@@ -14549,7 +14557,7 @@ EEG: Alcohol imagery reinforcement learning task with light and heavy drinker pa
 
 Also importable as: `DS004515`, `Singh2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Affect`; Subject type: `Other`.
 Subjects: 54; recordings: 54; tasks: 1.
 
 * **Parameters:**
@@ -14908,7 +14916,7 @@ EEG: Probabilistic Selection Task (PST) + PST with Cabergoline Challenge
 
 Also importable as: `DS004532`, `Cavanagh2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Learning`; Subject type: `Healthy`.
 Subjects: 110; recordings: 137; tasks: 1.
 
 * **Parameters:**
@@ -15123,7 +15131,7 @@ Forced Picture Naming Task
 
 Also importable as: `DS004554`, `Volpert2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Healthy`.
 Subjects: 16; recordings: 16; tasks: 1.
 
 * **Parameters:**
@@ -15195,7 +15203,7 @@ Illusion of Agency over Electrically-Actuated Movements
 
 Also importable as: `DS004561`, `Veillette2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 23; recordings: 23; tasks: 1.
 
 * **Parameters:**
@@ -15411,7 +15419,7 @@ Cross-modal Oddball Task.
 
 Also importable as: `DS004574`, `Singh2023_Cross_modal`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Clinical/Intervention`; Subject type: `Parkinson's`.
 Subjects: 146; recordings: 146; tasks: 1.
 
 * **Parameters:**
@@ -15483,7 +15491,7 @@ Dataset containing resting EEG for a sample of 103 normal infants in the first y
 
 Also importable as: `DS004577`, `Unit2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Clinical/Intervention`; Subject type: `Healthy`.
 Subjects: 103; recordings: 130; tasks: 1.
 
 * **Parameters:**
@@ -15555,7 +15563,7 @@ Interval Timing Task
 
 Also importable as: `DS004579`, `Singh2023_Interval_Timing`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Parkinson's`.
 Subjects: 139; recordings: 139; tasks: 1.
 
 * **Parameters:**
@@ -15627,7 +15635,7 @@ Simon-conflict Task.
 
 Also importable as: `DS004580`, `Singh2023_Simon_conflict`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Parkinson's`.
 Subjects: 147; recordings: 147; tasks: 1.
 
 * **Parameters:**
@@ -15699,7 +15707,7 @@ FakeFaceEmo_data
 
 Also importable as: `DS004582`, `Makowski2023_FakeFaceEmo`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Affect`; Subject type: `Healthy`.
 Subjects: 73; recordings: 73; tasks: 1.
 
 * **Parameters:**
@@ -15771,7 +15779,7 @@ Rest eyes open
 
 Also importable as: `DS004584`, `Singh2023_Rest_eyes`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Clinical/Intervention`; Subject type: `Parkinson's`.
 Subjects: 149; recordings: 149; tasks: 1.
 
 * **Parameters:**
@@ -15843,7 +15851,7 @@ IllusionGameEEG_data
 
 Also importable as: `DS004587`, `Makowski2023_IllusionGameEEG`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Healthy`.
 Subjects: 103; recordings: 114; tasks: 1.
 
 * **Parameters:**
@@ -15915,7 +15923,7 @@ Neuma
 
 Also importable as: `DS004588`, `Georgiadis2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Healthy`.
 Subjects: 42; recordings: 42; tasks: 1.
 
 * **Parameters:**
@@ -15987,7 +15995,7 @@ EEG: RL Task (3-Armed Bandit) with alcohol cues in hazardous drinkers and ctls
 
 Also importable as: `DS004595`, `Campbell2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Other`.
 Subjects: 53; recordings: 53; tasks: 1.
 
 * **Parameters:**
@@ -16131,7 +16139,7 @@ Registered Replication Report of ERN/Pe Psychometrics
 
 Also importable as: `DS004602`, `Clayson2023_Registered`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 182; recordings: 545; tasks: 3.
 
 * **Parameters:**
@@ -16203,7 +16211,7 @@ Visual Attribute-Specific Contextual Trajectory Paradigm
 
 Also importable as: `DS004603`, `Lowe2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 37; recordings: 37; tasks: 1.
 
 * **Parameters:**
@@ -16275,7 +16283,7 @@ The Nencki-Symfonia EEG/ERP dataset
 
 Also importable as: `DS004621`, `Patrycja2023_Nencki`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Healthy`.
 Subjects: 42; recordings: 167; tasks: 4.
 
 * **Parameters:**
@@ -16491,7 +16499,7 @@ Can we dissociate hypervigilance to social threats from altered perceptual decis
 
 Also importable as: `DS004626`, `Maka2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Other`.
 Subjects: 52; recordings: 52; tasks: 1.
 
 * **Parameters:**
@@ -16563,7 +16571,7 @@ Gaffrey Lab Infant Microstates Reliability
 
 Also importable as: `DS004635`, `Bagdasarov2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 48; recordings: 48; tasks: 1.
 
 * **Parameters:**
@@ -16779,7 +16787,7 @@ TNO
 
 Also importable as: `DS004660`, `Johnson2023_TNO`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 21; recordings: 42; tasks: 1.
 
 * **Parameters:**
@@ -17139,7 +17147,7 @@ Le Petit Prince Hong Kong: Naturalistic fMRI and EEG dataset from older Cantones
 
 Also importable as: `DS004718`, `Momenian2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Learning`; Subject type: `Healthy`.
 Subjects: 51; recordings: 51; tasks: 1.
 
 * **Parameters:**
@@ -17355,7 +17363,7 @@ Dataset of intracranial EEG, scalp EEG and beamforming sources from epilepsy pat
 
 Also importable as: `DS004752`, `Dimakopoulos2023_intracranial`.
 
-Modality: `eeg, ieeg`.
+Modality: `eeg, ieeg`; Experiment type: `Memory`; Subject type: `Epilepsy`.
 Subjects: 15; recordings: 136; tasks: 1.
 
 * **Parameters:**
@@ -17499,7 +17507,7 @@ EEG/ERP data from a Python Reading Task
 
 Also importable as: `DS004771`, `Kuo2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Healthy`.
 Subjects: 61; recordings: 61; tasks: 1.
 
 * **Parameters:**
@@ -17642,7 +17650,7 @@ Phantom EEG Dataset with Motion, Muscle, and Eye Artifacts and Example Scripts
 
 Also importable as: `DS004784`, `Downey2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 1; recordings: 6; tasks: 6.
 
 * **Parameters:**
@@ -17714,7 +17722,7 @@ EEG data for paper titled - Precise cortical contributions to feedback sensorimo
 
 Also importable as: `DS004785`, `Boebinger2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Motor`; Subject type: `Healthy`.
 Subjects: 17; recordings: 17; tasks: 1.
 
 * **Parameters:**
@@ -17858,7 +17866,7 @@ A Polish Electroencephalography, Alzheimer’s Risk-genes, Lifestyle and Neuroim
 
 Also importable as: `DS004796`, `Patrycja2023_Polish`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Memory/Resting state`; Subject type: `Other`.
 Subjects: 79; recordings: 235; tasks: 3.
 
 * **Parameters:**
@@ -17930,7 +17938,7 @@ Pilot data for Loneliness in the Brain: Distinguishing Between Hypersensitivity 
 
 Also importable as: `DS004802`, `Bathelt2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Affect`; Subject type: `Other`.
 Subjects: 39; recordings: 79; tasks: 1.
 
 * **Parameters:**
@@ -18074,7 +18082,7 @@ EEG-attention-rsvp-exp1
 
 Also importable as: `DS004816`, `Grootswagers2023_E1`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 20; recordings: 20; tasks: 1.
 
 * **Parameters:**
@@ -18146,7 +18154,7 @@ EEG-attention-rsvp-exp2
 
 Also importable as: `DS004817`, `Grootswagers2023_E2`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 20; recordings: 20; tasks: 1.
 
 * **Parameters:**
@@ -18433,7 +18441,7 @@ Dataset of electrophysiological signals (EEG, ECG, EMG) during Music therapy wit
 
 Also importable as: `DS004840`, `CordobaSilva2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Clinical/Intervention`; Subject type: `Other`.
 Subjects: 9; recordings: 51; tasks: 3.
 
 * **Parameters:**
@@ -19369,7 +19377,7 @@ Investigating the cognitive conflict triggered by moral judgment of accidental h
 
 Also importable as: `DS004860`, `Schwartz2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Healthy`.
 Subjects: 31; recordings: 31; tasks: 1.
 
 * **Parameters:**
@@ -19513,7 +19521,7 @@ Registerd Report of ERN During Three Versions of a Flanker Task
 
 Also importable as: `DS004883`, `Clayson2023_Registerd`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Healthy`.
 Subjects: 172; recordings: 516; tasks: 3.
 
 * **Parameters:**
@@ -19585,7 +19593,7 @@ A Resting-state EEG Dataset for Sleep Deprivation
 
 Also importable as: `DS004902`, `Xiang2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Resting state`; Subject type: `Healthy`.
 Subjects: 71; recordings: 218; tasks: 2.
 
 * **Parameters:**
@@ -19657,7 +19665,7 @@ Probability Decision-making Task with ambiguity
 
 Also importable as: `DS004917`, `FigueroaVargas2024`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Healthy`.
 Subjects: 24; recordings: 24; tasks: 1.
 
 * **Parameters:**
@@ -19871,7 +19879,7 @@ SpatialMemory
 
 Also importable as: `DS004942`, `Kieffaber2024`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Memory`; Subject type: `Healthy`.
 Subjects: 62; recordings: 62; tasks: 1.
 
 * **Parameters:**
@@ -20087,7 +20095,7 @@ ChineseEEG: A Chinese Linguistic Corpora EEG Dataset for Semantic Alignment and 
 
 Also importable as: `DS004952`, `Mou2024`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 10; recordings: 245; tasks: 1.
 
 * **Parameters:**
@@ -20302,7 +20310,7 @@ EEG data set for a architectural affordances task
 
 Also importable as: `DS004980`, `Wang2024_architectural_affordances`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 17; recordings: 17; tasks: 1.
 
 * **Parameters:**
@@ -20662,7 +20670,7 @@ Tilt Illusion by Phase
 
 Also importable as: `DS005021`, `Williams2024`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 36; recordings: 36; tasks: 1.
 
 * **Parameters:**
@@ -20806,7 +20814,7 @@ The effect of theta tACS on working memory
 
 Also importable as: `DS005034`, `Pavlov2024_effect_theta_tACS`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Memory`; Subject type: `Healthy`.
 Subjects: 25; recordings: 100; tasks: 2.
 
 * **Parameters:**
@@ -20878,7 +20886,7 @@ Bases: [`EEGDashDataset`](eegdash.EEGDashDataset.md#eegdash.EEGDashDataset)
 
 Also importable as: `DS005048`, `Lahijanian2024`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Dementia`.
 Subjects: 35; recordings: 35; tasks: 1.
 
 * **Parameters:**
@@ -21094,7 +21102,7 @@ The Effects of Directed Therapeutic Intent on Live and Damaged Cells
 
 Also importable as: `DS005079`, `Cohen2024`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Affect`; Subject type: `Healthy`.
 Subjects: 1; recordings: 60; tasks: 15.
 
 * **Parameters:**
@@ -21309,7 +21317,7 @@ Proactive selective attention across competition contexts
 
 Also importable as: `DS005089`, `AguadoLopez2024`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 36; recordings: 36; tasks: 1.
 
 * **Parameters:**
@@ -21381,7 +21389,7 @@ STERNBERG DIFFICULT
 
 Also importable as: `DS005095`, `Zhozhikashvili2024`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Memory`; Subject type: `Healthy`.
 Subjects: 48; recordings: 48; tasks: 1.
 
 * **Parameters:**
@@ -21453,7 +21461,7 @@ Bases: [`EEGDashDataset`](eegdash.EEGDashDataset.md#eegdash.EEGDashDataset)
 
 Also importable as: `DS005106`, `Grootswagers2024`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 42; recordings: 42; tasks: 1.
 
 * **Parameters:**
@@ -21597,7 +21605,7 @@ EEG: DPX Cog Ctl Task in Acute Mild TBI
 
 Also importable as: `DS005114`, `Cavanagh2024`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention`; Subject type: `TBI`.
 Subjects: 91; recordings: 223; tasks: 1.
 
 * **Parameters:**
@@ -21669,7 +21677,7 @@ Siefert2024
 
 Also importable as: `DS005121`, `Siefert2024`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Memory`; Subject type: `Healthy`.
 Subjects: 34; recordings: 39; tasks: 1.
 
 * **Parameters:**
@@ -21741,7 +21749,7 @@ Evoked responses to elevated sounds
 
 Also importable as: `DS005131`, `Bialas2024`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Attention/Memory`; Subject type: `Healthy`.
 Subjects: 58; recordings: 63; tasks: 2.
 
 * **Parameters:**
@@ -22099,7 +22107,7 @@ Search Superiority Recollection Familiarity
 
 Also importable as: `DS005189`, `Helbing2024`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Memory`; Subject type: `Healthy`.
 Subjects: 30; recordings: 30; tasks: 1.
 
 * **Parameters:**
@@ -22171,7 +22179,7 @@ Surrey cEEGrid sleep data set
 
 Also importable as: `DS005207`, `Mikkelsen2024_Surrey_cEEGrid_sleep`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Sleep`; Subject type: `Healthy`.
 Subjects: 20; recordings: 39; tasks: 1.
 
 * **Parameters:**
@@ -22387,7 +22395,7 @@ ArEEG: Arabic Inner Speech EEG dataset
 
 Also importable as: `DS005262`, `Metwalli2024`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `other`; Subject type: `Healthy`.
 Subjects: 12; recordings: 186; tasks: 1.
 
 * **Parameters:**
@@ -22459,7 +22467,7 @@ Neural representation of consciously seen and unseen information
 
 Also importable as: `DS005273`, `Esteban2024`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Healthy`.
 Subjects: 33; recordings: 33; tasks: 1.
 
 * **Parameters:**
@@ -23244,7 +23252,7 @@ study
 
 Also importable as: `DS005296`, `Emmorey2024`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Healthy`.
 Subjects: 62; recordings: 62; tasks: 1.
 
 * **Parameters:**
@@ -23316,7 +23324,7 @@ EEG Resting-state Microstates Correlates of Executive Functions
 
 Also importable as: `DS005305`, `Quentin2024`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Healthy`.
 Subjects: 165; recordings: 165; tasks: 1.
 
 * **Parameters:**
@@ -23532,7 +23540,7 @@ EEG data offline and online during motor imagery for standing and sitting
 
 Also importable as: `DS005342`, `TrianaGuzman2024`.
 
-Modality: `eeg`.
+Modality: `eeg`; Experiment type: `Motor`; Subject type: `Healthy`.
 Subjects: 32; recordings: 32; tasks: 1.
 
 * **Parameters:**
@@ -30605,11 +30613,11 @@ PsiConnect
 * **Study:**
   `ds006110` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS006110`, `nan`.
+Also importable as: `DS006110`.
 
 Modality: `eeg`; Experiment type: `Affect`; Subject type: `Other`.
 Subjects: 65; recordings: 124; tasks: 1.
@@ -34303,7 +34311,7 @@ Visual Attribute-Specific Contextual Trajectory Paradigm 2.0
 
 Also importable as: `DS006817`, `Lowe2025`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 34; recordings: 34; tasks: 1.
 
 * **Parameters:**
@@ -34865,11 +34873,11 @@ No effect of rhythmic visual stimulation on experimental pain perception
 * **Study:**
   `ds006897` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS006897`, `nan`.
+Also importable as: `DS006897`.
 
 Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 41; recordings: 41; tasks: 1.
@@ -35717,11 +35725,11 @@ FOODEEG: An open dataset of human electroencephalographic and behavioural respon
 * **Study:**
   `ds007012` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007012`, `nan`.
+Also importable as: `DS007012`.
 
 Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 117; recordings: 118; tasks: 1.
@@ -37350,11 +37358,11 @@ Visual Occlusions with Treadmill Walking Speeds EEG
 * **Study:**
   `ds007222` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007222`, `nan`.
+Also importable as: `DS007222`.
 
 Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 15; recordings: 75; tasks: 5.
@@ -38699,11 +38707,11 @@ Bases: [`EEGDashDataset`](eegdash.EEGDashDataset.md#eegdash.EEGDashDataset)
 * **Study:**
   `ds007509` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007509`, `nan`.
+Also importable as: `DS007509`.
 
 Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 69; recordings: 70; tasks: 1.
@@ -39054,11 +39062,11 @@ A multimodal dataset of EEG, eye-tracking, and physiological signals during smar
 * **Study:**
   `ds007537` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007537`, `nan`.
+Also importable as: `DS007537`.
 
 Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 23; recordings: 23; tasks: 1.
@@ -39125,11 +39133,11 @@ ds007541
 * **Study:**
   `ds007541` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007541`, `nan`.
+Also importable as: `DS007541`.
 
 Modality: `eeg`; Experiment type: `Unknown`; Subject type: `Unknown`.
 Subjects: 32; recordings: 960; tasks: 3.
@@ -39479,11 +39487,11 @@ EPOC
 * **Study:**
   `ds007605` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007605`, `nan`.
+Also importable as: `DS007605`.
 
 Modality: `eeg`; Experiment type: `Attention`; Subject type: `Other`.
 Subjects: 97; recordings: 97; tasks: 1.
@@ -39692,11 +39700,11 @@ ROAMM
 * **Study:**
   `ds007629` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007629`, `nan`.
+Also importable as: `DS007629`.
 
 Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 1; recordings: 5; tasks: 1.
@@ -39763,11 +39771,11 @@ EEG-Speech Brain Decoding Dataset
 * **Study:**
   `ds007630` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007630`, `nan`.
+Also importable as: `DS007630`.
 
 Modality: `eeg`; Experiment type: `Unknown`; Subject type: `Unknown`.
 Subjects: 3; recordings: 1974; tasks: 3.
@@ -39834,11 +39842,11 @@ Dataset of emotion recognition using validated video stimuli with large-scale be
 * **Study:**
   `ds007640` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007640`, `nan`.
+Also importable as: `DS007640`.
 
 Modality: `meg`; Experiment type: `Affect`; Subject type: `Healthy`.
 Subjects: 23; recordings: 94; tasks: 4.
@@ -39905,11 +39913,11 @@ Different Doors
 * **Study:**
   `ds007647` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007647`, `nan`.
+Also importable as: `DS007647`.
 
 Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Healthy`.
 Subjects: 40; recordings: 40; tasks: 1.
@@ -39976,11 +39984,11 @@ CrossModal Study
 * **Study:**
   `ds007648` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007648`, `nan`.
+Also importable as: `DS007648`.
 
 Modality: `eeg`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 22; recordings: 22; tasks: 1.
@@ -40047,11 +40055,11 @@ MorseEEG-ATP
 * **Study:**
   `ds007655` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007655`, `nan`.
+Also importable as: `DS007655`.
 
 Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 32; recordings: 64; tasks: 2.
@@ -40118,11 +40126,11 @@ CrossModal Study
 * **Study:**
   `ds007663` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007663`, `nan`.
+Also importable as: `DS007663`.
 
 Modality: `meg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 27; recordings: 59; tasks: 1.
@@ -40189,11 +40197,11 @@ Grupos Pre and Post bids
 * **Study:**
   `ds007666` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007666`, `nan`.
+Also importable as: `DS007666`.
 
 Modality: `eeg`; Experiment type: `Unknown`; Subject type: `Healthy`.
 Subjects: 55; recordings: 110; tasks: 20.
@@ -40260,11 +40268,11 @@ Grupos Pre and Post bids
 * **Study:**
   `ds007667` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007667`, `nan`.
+Also importable as: `DS007667`.
 
 Modality: `eeg`; Experiment type: `Resting-state`; Subject type: `Healthy`.
 Subjects: 55; recordings: 110; tasks: 20.
@@ -40331,11 +40339,11 @@ The Temporal Sequence of Party Leader Incongruence
 * **Study:**
   `ds007688` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007688`, `nan`.
+Also importable as: `DS007688`.
 
 Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 44; recordings: 88; tasks: 2.
@@ -40402,11 +40410,11 @@ Cambridge_data
 * **Study:**
   `ds007714` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007714`, `nan`.
+Also importable as: `DS007714`.
 
 Modality: `fnirs`; Experiment type: `Unknown`; Subject type: `Unknown`.
 Subjects: 64; recordings: 64; tasks: 1.
@@ -40473,11 +40481,11 @@ Cambridge_data_resting
 * **Study:**
   `ds007719` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007719`, `nan`.
+Also importable as: `DS007719`.
 
 Modality: `fnirs`; Experiment type: `Resting-state`; Subject type: `Healthy`.
 Subjects: 65; recordings: 65; tasks: 1.
@@ -40544,11 +40552,11 @@ BCI-FIT: A customization protocol for communication brain-computer interface sys
 * **Study:**
   `ds007720` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007720`, `nan`.
+Also importable as: `DS007720`.
 
 Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Other`.
 Subjects: 5; recordings: 371; tasks: 4.
@@ -40615,11 +40623,11 @@ Bone conducted responses using the parallel auditory brainstem response (pABR) p
 * **Study:**
   `ds007721` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007721`, `nan`.
+Also importable as: `DS007721`.
 
 Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 20; recordings: 40; tasks: 2.
@@ -40686,11 +40694,11 @@ Whole-Head Cocktail Party fNIRS
 * **Study:**
   `ds007738` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007738`, `nan`.
+Also importable as: `DS007738`.
 
 Modality: `fnirs`; Experiment type: `Attention`; Subject type: `Healthy`.
 Subjects: 38; recordings: 223; tasks: 6.
@@ -40757,11 +40765,11 @@ Dataset: EEG-Controlled Exoskeleton for Walking and Standing - A Longitudinal St
 * **Study:**
   `ds007788` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007788`, `nan`.
+Also importable as: `DS007788`.
 
 Modality: `eeg`; Experiment type: `Motor`; Subject type: `Healthy`.
 Subjects: 7; recordings: 935; tasks: 15.
@@ -40828,11 +40836,11 @@ EEG-Speech Brain Decoding Dataset
 * **Study:**
   `ds007808` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007808`, `nan`.
+Also importable as: `DS007808`.
 
 Modality: `eeg`; Experiment type: `Perception`; Subject type: `Healthy`.
 Subjects: 3; recordings: 1974; tasks: 3.
@@ -40899,11 +40907,11 @@ Prisoner’s Dilemma EEG Dataset
 * **Study:**
   `ds007822` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007822`, `nan`.
+Also importable as: `DS007822`.
 
 Modality: `eeg`; Experiment type: `Decision-making`; Subject type: `Healthy`.
 Subjects: 33; recordings: 99; tasks: 3.
@@ -40970,11 +40978,11 @@ A COVID-19 survivors and close contacts EEG dataset
 * **Study:**
   `ds007823` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007823`, `nan`.
+Also importable as: `DS007823`.
 
 Modality: `eeg`; Experiment type: `Clinical/Intervention`; Subject type: `Other`.
 Subjects: 169; recordings: 169; tasks: 1.
@@ -41041,11 +41049,11 @@ Loneliness EEG - Roving Oddball Task
 * **Study:**
   `ds007827` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007827`, `nan`.
+Also importable as: `DS007827`.
 
 Modality: `eeg`; Experiment type: `Affect`; Subject type: `Healthy`.
 Subjects: 99; recordings: 99; tasks: 1.
@@ -41112,11 +41120,11 @@ Neuroepo multisession Phase II and III
 * **Study:**
   `ds007864` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007864`, `nan`.
+Also importable as: `DS007864`.
 
 Modality: `eeg`; Experiment type: `Clinical/Intervention`; Subject type: `Parkinson's`.
 Subjects: 45; recordings: 84; tasks: 1.
@@ -41183,11 +41191,11 @@ Placebo Neuroepo multisession Phase II and III
 * **Study:**
   `ds007865` (OpenNeuro)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `DS007865`, `nan`.
+Also importable as: `DS007865`.
 
 Modality: `eeg`; Experiment type: `Clinical/Intervention`; Subject type: `Parkinson's`.
 Subjects: 24; recordings: 47; tasks: 1.
@@ -43097,7 +43105,7 @@ Healthy Brain Network EEG - Not for Commercial Use
 
 Also importable as: `NM000103`, `Shirazi2017`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 447; recordings: 3522; tasks: 10.
 
 * **Parameters:**
@@ -43168,7 +43176,7 @@ emg2qwerty: A Large Dataset with Baselines for Touch Typing using Surface Electr
 
 Also importable as: `NM000104`, `Sivakumar2024`.
 
-Modality: `emg`.
+Modality: `emg`; Subject type: `Unknown`.
 Subjects: 108; recordings: 1136; tasks: 1.
 
 * **Parameters:**
@@ -43239,7 +43247,7 @@ FRL Discrete Gestures: Hand Gesture Recognition from Surface Electromyography
 
 Also importable as: `NM000105`, `Kaifosh2025`.
 
-Modality: `emg`.
+Modality: `emg`; Subject type: `Unknown`.
 Subjects: 100; recordings: 100; tasks: 1.
 
 * **Parameters:**
@@ -43310,7 +43318,7 @@ FRL Handwriting: Handwriting Decoding from Surface Electromyography
 
 Also importable as: `NM000106`, `Kaifosh2025_106`.
 
-Modality: `emg`.
+Modality: `emg`; Subject type: `Unknown`.
 Subjects: 100; recordings: 807; tasks: 1.
 
 * **Parameters:**
@@ -43381,7 +43389,7 @@ FRL Wrist Control: Wrist Movement Decoding from Surface Electromyography
 
 Also importable as: `NM000107`, `Kaifosh2025_107`.
 
-Modality: `emg`.
+Modality: `emg`; Subject type: `Unknown`.
 Subjects: 100; recordings: 182; tasks: 1.
 
 * **Parameters:**
@@ -43452,7 +43460,7 @@ HySER: High-Density Surface Electromyogram Recordings
 
 Also importable as: `NM000108`, `Jiang2021`.
 
-Modality: `emg`.
+Modality: `emg`; Subject type: `Unknown`.
 Subjects: 20; recordings: 1514; tasks: 38.
 
 * **Parameters:**
@@ -43523,7 +43531,7 @@ EEG During Mental Arithmetic Tasks
 
 Also importable as: `NM000109`, `Zyma2019`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 36; recordings: 72; tasks: 2.
 
 * **Parameters:**
@@ -43594,7 +43602,7 @@ CHB-MIT
 
 Also importable as: `NM000110`, `Connolly2010`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 24; recordings: 686; tasks: 1.
 
 * **Parameters:**
@@ -43665,7 +43673,7 @@ FACED - Finer-grained Affective Computing EEG Dataset
 
 Also importable as: `NM000112`, `Liu2024_112`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 123; recordings: 123; tasks: 1.
 
 * **Parameters:**
@@ -43736,7 +43744,7 @@ Bases: [`EEGDashDataset`](eegdash.EEGDashDataset.md#eegdash.EEGDashDataset)
 
 Also importable as: `NM000113`, `Lee2020`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 15; recordings: 45; tasks: 1.
 
 * **Parameters:**
@@ -43807,7 +43815,7 @@ MDD Patients and Healthy Controls EEG Data
 
 Also importable as: `NM000114`, `Mumtaz2017`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 64; recordings: 181; tasks: 3.
 
 * **Parameters:**
@@ -43878,7 +43886,7 @@ Zhou2016
 
 Also importable as: `NM000115`, `Zhou2016`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 4; recordings: 24; tasks: 1.
 
 * **Parameters:**
@@ -44943,7 +44951,7 @@ ERP CORE
 
 Also importable as: `NM000132`, `Kappenman2021`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 40; recordings: 240; tasks: 6.
 
 * **Parameters:**
@@ -45014,7 +45022,7 @@ Alljoined1
 
 Also importable as: `NM000133`, `Xu2024`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 8; recordings: 13; tasks: 1.
 
 * **Parameters:**
@@ -45085,7 +45093,7 @@ Alljoined-1.6M
 
 Also importable as: `NM000134`, `Xu2025`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 20; recordings: 1525; tasks: 1.
 
 * **Parameters:**
@@ -46220,7 +46228,7 @@ Liu2025 - NEMAR Dataset
 
 Also importable as: `NM000150`, `Liu2025_NEMAR`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 0; recordings: 0; tasks: 0.
 
 * **Parameters:**
@@ -46426,13 +46434,13 @@ EEG meditation study
 * **Study:**
   `nm000154` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `NM000154`, `nan`.
+Also importable as: `NM000154`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 24; recordings: 40; tasks: 1.
 
 * **Parameters:**
@@ -46503,7 +46511,7 @@ MUniverse Caillet et al 2023
 
 Also importable as: `NM000155`, `Caillet2023`.
 
-Modality: `emg`.
+Modality: `emg`; Subject type: `Unknown`.
 Subjects: 6; recordings: 11; tasks: 2.
 
 * **Parameters:**
@@ -46568,13 +46576,13 @@ Hybrid EEG-fNIRS MI dataset for ICH from Shi et al 2025
 * **Study:**
   `nm000156` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `NM000156`, `nan`.
+Also importable as: `NM000156`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 37; recordings: 98; tasks: 1.
 
 * **Parameters:**
@@ -46645,7 +46653,7 @@ Mainsah2025-B
 
 Also importable as: `NM000157`, `Mainsah2025`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 19; recordings: 544; tasks: 1.
 
 * **Parameters:**
@@ -46787,7 +46795,7 @@ MUniverse Avrillon et al 2024
 
 Also importable as: `NM000159`, `Avrillon2024`.
 
-Modality: `emg`.
+Modality: `emg`; Subject type: `Unknown`.
 Subjects: 16; recordings: 124; tasks: 8.
 
 * **Parameters:**
@@ -47142,7 +47150,7 @@ MUniverse Grison et al 2025
 
 Also importable as: `NM000165`, `Grison2025`.
 
-Modality: `emg`.
+Modality: `emg`; Subject type: `Unknown`.
 Subjects: 1; recordings: 10; tasks: 10.
 
 * **Parameters:**
@@ -47213,7 +47221,7 @@ M3CV: Multi-subject, Multi-session, Multi-task EEG Database
 
 Also importable as: `NM000166`, `Huang2018`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 95; recordings: 2469; tasks: 13.
 
 * **Parameters:**
@@ -47781,7 +47789,7 @@ fNIRS Finger Tapping
 
 Also importable as: `NM000175`, `Luke2024`.
 
-Modality: `fnirs`.
+Modality: `fnirs`; Subject type: `Unknown`.
 Subjects: 5; recordings: 5; tasks: 1.
 
 * **Parameters:**
@@ -47922,7 +47930,7 @@ LEMON: MPI Leipzig Mind-Brain-Body EEG (Resting State)
 
 Also importable as: `NM000179`, `Babayan2018`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 215; recordings: 215; tasks: 1.
 
 * **Parameters:**
@@ -47993,7 +48001,7 @@ Brennan2019: EEG during Alice in Wonderland Listening
 
 Also importable as: `NM000180`, `Brennan2019`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 45; recordings: 45; tasks: 1.
 
 * **Parameters:**
@@ -48064,7 +48072,7 @@ NMT: Neurodiagnostic Montage Template Scalp EEG
 
 Also importable as: `NM000181`, `Khan2019`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 2417; recordings: 2417; tasks: 1.
 
 * **Parameters:**
@@ -48135,7 +48143,7 @@ Sleep-EDF Expanded: Whole-Night PSG Recordings
 
 Also importable as: `NM000185`, `Kemp2000`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 100; recordings: 197; tasks: 1.
 
 * **Parameters:**
@@ -49326,13 +49334,13 @@ P300 dataset BI2012 from a “Brain Invaders” experiment
 * **Study:**
   `nm000202` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `NM000202`, `nan`.
+Also importable as: `NM000202`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 25; recordings: 25; tasks: 1.
 
 * **Parameters:**
@@ -49396,13 +49404,13 @@ P300 dataset from initial spot study
 * **Study:**
   `nm000203` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `NM000203`, `nan`.
+Also importable as: `NM000203`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 13; recordings: 800; tasks: 1.
 
 * **Parameters:**
@@ -50802,7 +50810,7 @@ PhysioNet 2018 Challenge: Sleep Arousal Detection PSG (Training)
 
 Also importable as: `NM000225`, `Ghassemi2018`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 1983; recordings: 1983; tasks: 1.
 
 * **Parameters:**
@@ -50873,7 +50881,7 @@ Zhou2016
 
 Also importable as: `NM000226`, `Zhou2016_226`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 4; recordings: 24; tasks: 1.
 
 * **Parameters:**
@@ -51014,7 +51022,7 @@ Nieuwland et al. 2018: Multi-site N400 Replication Study
 
 Also importable as: `NM000228`, `Nieuwland2018`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 356; recordings: 397; tasks: 2.
 
 * **Parameters:**
@@ -51085,7 +51093,7 @@ MEG-MASC: a high-quality magneto-encephalography dataset for evaluating natural 
 
 Also importable as: `NM000229`, `Gwilliams2023`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 29; recordings: 1360; tasks: 79.
 
 * **Parameters:**
@@ -51295,7 +51303,7 @@ THINGS-EEG2: A large and rich EEG dataset for modeling human visual object recog
 
 Also importable as: `NM000232`, `Gifford2019`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 10; recordings: 638; tasks: 5.
 
 * **Parameters:**
@@ -51646,7 +51654,7 @@ nm000238
 
 Also importable as: `NM000238`, `Accou2024`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 87; recordings: 4085; tasks: 363.
 
 * **Parameters:**
@@ -51856,7 +51864,7 @@ CerebroVoice: Bilingual sEEG Speech Dataset
 
 Also importable as: `NM000241`, `Zhang2019`.
 
-Modality: `ieeg`.
+Modality: `ieeg`; Subject type: `Unknown`.
 Subjects: 2; recordings: 18; tasks: 9.
 
 * **Parameters:**
@@ -52557,7 +52565,7 @@ He et al. 2025 — VocalMind: A Stereotactic EEG Dataset for Vocalized, Mimed, a
 
 Also importable as: `NM000251`, `He2025`.
 
-Modality: `ieeg`.
+Modality: `ieeg`; Subject type: `Unknown`.
 Subjects: 1; recordings: 6; tasks: 3.
 
 * **Parameters:**
@@ -52628,7 +52636,7 @@ Wang et al. 2024 — Brain Treebank: Large-scale intracranial recordings from na
 
 Also importable as: `NM000253`, `Wang2024_et_al_Brain`.
 
-Modality: `ieeg`.
+Modality: `ieeg`; Subject type: `Unknown`.
 Subjects: 10; recordings: 26; tasks: 1.
 
 * **Parameters:**
@@ -52699,7 +52707,7 @@ Naturalistic viewing: An open-access dataset using simultaneous EEG-fMRI
 
 Also importable as: `NM000254`, `Telesford2024`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 22; recordings: 942; tasks: 12.
 
 * **Parameters:**
@@ -52769,7 +52777,7 @@ The Brain, Body, and Behaviour Dataset (1.0.0) - Experiment 2
 
 Also importable as: `NM000255`, `Madsen2024_E2`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 30; recordings: 291; tasks: 5.
 
 * **Parameters:**
@@ -52839,7 +52847,7 @@ The Brain, Body, and Behaviour Dataset (1.0.0) - Experiment 3
 
 Also importable as: `NM000256`, `Madsen2024_E3`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 29; recordings: 332; tasks: 6.
 
 * **Parameters:**
@@ -55246,13 +55254,13 @@ Multisubject, multimodal face processing
 * **Study:**
   `on000117` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON000117`, `nan`.
+Also importable as: `ON000117`.
 
-Modality: `meg`.
+Modality: `meg`; Subject type: `Unknown`.
 Subjects: 17; recordings: 104; tasks: 2.
 
 * **Parameters:**
@@ -55317,13 +55325,13 @@ EEG meditation study
 * **Study:**
   `on001787` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON001787`, `nan`.
+Also importable as: `ON001787`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 24; recordings: 40; tasks: 1.
 
 * **Parameters:**
@@ -55388,13 +55396,13 @@ CRYPTO and PROVIDE EEG Baseline Data
 * **Study:**
   `on002181` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON002181`, `nan`.
+Also importable as: `ON002181`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 226; recordings: 226; tasks: 1.
 
 * **Parameters:**
@@ -55459,13 +55467,13 @@ Visual Oddball Task (256 channels)
 * **Study:**
   `on002578` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON002578`, `nan`.
+Also importable as: `ON002578`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 2; recordings: 2; tasks: 1.
 
 * **Parameters:**
@@ -55530,13 +55538,13 @@ Face processing EEG dataset for EEGLAB
 * **Study:**
   `on002718` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON002718`, `nan`.
+Also importable as: `ON002718`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 18; recordings: 18; tasks: 1.
 
 * **Parameters:**
@@ -55601,13 +55609,13 @@ UC San Diego Resting State EEG Data from Patients with Parkinson’s Disease
 * **Study:**
   `on002778` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON002778`, `nan`.
+Also importable as: `ON002778`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 31; recordings: 46; tasks: 1.
 
 * **Parameters:**
@@ -55672,13 +55680,13 @@ Assesment of the visual stimuli properties in P300 paradigm
 * **Study:**
   `on003190` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON003190`, `nan`.
+Also importable as: `ON003190`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 19; recordings: 384; tasks: 2.
 
 * **Parameters:**
@@ -55743,13 +55751,13 @@ Neuroepo multisession
 * **Study:**
   `on003194` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON003194`, `nan`.
+Also importable as: `ON003194`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 15; recordings: 29; tasks: 2.
 
 * **Parameters:**
@@ -55814,13 +55822,13 @@ Placebo Neuroepo multisession
 * **Study:**
   `on003195` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON003195`, `nan`.
+Also importable as: `ON003195`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 10; recordings: 20; tasks: 2.
 
 * **Parameters:**
@@ -55885,13 +55893,13 @@ Disentangling the percepts of illusory movement and sensory stimulation during t
 * **Study:**
   `on003343` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON003343`, `nan`.
+Also importable as: `ON003343`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 20; recordings: 59; tasks: 1.
 
 * **Parameters:**
@@ -55956,13 +55964,13 @@ Corticothalamic communication under analgesia, sedation and gradual ischemia: a 
 * **Study:**
   `on003380` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON003380`, `nan`.
+Also importable as: `ON003380`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 1; recordings: 1; tasks: 0.
 
 * **Parameters:**
@@ -56027,13 +56035,13 @@ Face processing MEEG dataset with HED annotation
 * **Study:**
   `on003645` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON003645`, `nan`.
+Also importable as: `ON003645`.
 
-Modality: `eeg, meg`.
+Modality: `eeg, meg`; Subject type: `Unknown`.
 Subjects: 19; recordings: 224; tasks: 2.
 
 * **Parameters:**
@@ -56098,13 +56106,13 @@ Auditory Gamma Entrainment
 * **Study:**
   `on003800` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON003800`, `nan`.
+Also importable as: `ON003800`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 13; recordings: 24; tasks: 2.
 
 * **Parameters:**
@@ -56169,13 +56177,13 @@ Neural Tracking to go
 * **Study:**
   `on003801` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON003801`, `nan`.
+Also importable as: `ON003801`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 20; recordings: 20; tasks: 1.
 
 * **Parameters:**
@@ -56240,13 +56248,13 @@ Motor Imagery vs Rest - Low-Cost EEG System
 * **Study:**
   `on003810` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON003810`, `nan`.
+Also importable as: `ON003810`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 10; recordings: 50; tasks: 1.
 
 * **Parameters:**
@@ -56311,13 +56319,13 @@ Human electroencephalography recordings from 50 subjects for 22,248 images from 
 * **Study:**
   `on003825` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON003825`, `nan`.
+Also importable as: `ON003825`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 50; recordings: 50; tasks: 1.
 
 * **Parameters:**
@@ -56382,13 +56390,13 @@ EEG recordings for 200 object images presented in RSVP sequences at 5Hz or 20Hz
 * **Study:**
   `on004018` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON004018`, `nan`.
+Also importable as: `ON004018`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 16; recordings: 32; tasks: 1.
 
 * **Parameters:**
@@ -56453,13 +56461,13 @@ Multimodal EEG and fNIRS Biosignal Acquisition during Motor Imagery Tasks in Pat
 * **Study:**
   `on004022` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON004022`, `nan`.
+Also importable as: `ON004022`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 7; recordings: 21; tasks: 1.
 
 * **Parameters:**
@@ -56524,13 +56532,13 @@ EEG Motor Movement/Imagery Dataset
 * **Study:**
   `on004362` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON004362`, `nan`.
+Also importable as: `ON004362`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 109; recordings: 1526; tasks: 1.
 
 * **Parameters:**
@@ -56595,13 +56603,13 @@ Meta-rdk: Preprocessed EEG data
 * **Study:**
   `on004368` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON004368`, `nan`.
+Also importable as: `ON004368`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 39; recordings: 40; tasks: 1.
 
 * **Parameters:**
@@ -56666,13 +56674,13 @@ Neuma
 * **Study:**
   `on004588` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON004588`, `nan`.
+Also importable as: `ON004588`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 42; recordings: 42; tasks: 1.
 
 * **Parameters:**
@@ -56737,13 +56745,13 @@ ANDI
 * **Study:**
   `on004661` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON004661`, `nan`.
+Also importable as: `ON004661`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 17; recordings: 17; tasks: 1.
 
 * **Parameters:**
@@ -56808,13 +56816,13 @@ Bases: [`EEGDashDataset`](eegdash.EEGDashDataset.md#eegdash.EEGDashDataset)
 * **Study:**
   `on004745` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON004745`, `nan`.
+Also importable as: `ON004745`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 6; recordings: 6; tasks: 1.
 
 * **Parameters:**
@@ -56879,13 +56887,13 @@ STRONG
 * **Study:**
   `on004849` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON004849`, `nan`.
+Also importable as: `ON004849`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 1; recordings: 1; tasks: 1.
 
 * **Parameters:**
@@ -56950,13 +56958,13 @@ ODE
 * **Study:**
   `on004850` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON004850`, `nan`.
+Also importable as: `ON004850`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 1; recordings: 1; tasks: 1.
 
 * **Parameters:**
@@ -57021,13 +57029,13 @@ InsurgentCivilian
 * **Study:**
   `on004852` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON004852`, `nan`.
+Also importable as: `ON004852`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 1; recordings: 1; tasks: 1.
 
 * **Parameters:**
@@ -57092,13 +57100,13 @@ TX17
 * **Study:**
   `on004853` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON004853`, `nan`.
+Also importable as: `ON004853`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 1; recordings: 1; tasks: 1.
 
 * **Parameters:**
@@ -57163,13 +57171,13 @@ TX18
 * **Study:**
   `on004854` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON004854`, `nan`.
+Also importable as: `ON004854`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 1; recordings: 1; tasks: 1.
 
 * **Parameters:**
@@ -57234,13 +57242,13 @@ FT
 * **Study:**
   `on004855` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON004855`, `nan`.
+Also importable as: `ON004855`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 1; recordings: 1; tasks: 1.
 
 * **Parameters:**
@@ -57305,13 +57313,13 @@ Comparing P300 Flashing paradigms in online typing with language models
 * **Study:**
   `on005028` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON005028`, `nan`.
+Also importable as: `ON005028`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 11; recordings: 105; tasks: 3.
 
 * **Parameters:**
@@ -57376,13 +57384,13 @@ Gloups_MEG
 * **Study:**
   `on005261` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON005261`, `nan`.
+Also importable as: `ON005261`.
 
-Modality: `meg`.
+Modality: `meg`; Subject type: `Unknown`.
 Subjects: 17; recordings: 128; tasks: 2.
 
 * **Parameters:**
@@ -57447,13 +57455,13 @@ ArEEG: Arabic Inner Speech EEG dataset
 * **Study:**
   `on005262` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON005262`, `nan`.
+Also importable as: `ON005262`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 12; recordings: 186; tasks: 1.
 
 * **Parameters:**
@@ -57518,13 +57526,13 @@ Resting state EEG with closed eyes and open eyes in females from 60 to 80 years 
 * **Study:**
   `on005420` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON005420`, `nan`.
+Also importable as: `ON005420`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 37; recordings: 72; tasks: 2.
 
 * **Parameters:**
@@ -57589,13 +57597,13 @@ Healthy Brain Network (HBN) EEG - Release 1
 * **Study:**
   `on005505` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON005505`, `nan`.
+Also importable as: `ON005505`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 136; recordings: 1342; tasks: 10.
 
 * **Parameters:**
@@ -57660,13 +57668,13 @@ Healthy Brain Network (HBN) EEG - Release 2
 * **Study:**
   `on005506` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON005506`, `nan`.
+Also importable as: `ON005506`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 150; recordings: 1405; tasks: 10.
 
 * **Parameters:**
@@ -57731,13 +57739,13 @@ Healthy Brain Network (HBN) EEG - Release 3
 * **Study:**
   `on005507` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON005507`, `nan`.
+Also importable as: `ON005507`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 184; recordings: 1812; tasks: 10.
 
 * **Parameters:**
@@ -57802,13 +57810,13 @@ Healthy Brain Network (HBN) EEG - Release 4
 * **Study:**
   `on005508` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON005508`, `nan`.
+Also importable as: `ON005508`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 324; recordings: 3342; tasks: 10.
 
 * **Parameters:**
@@ -57873,13 +57881,13 @@ Healthy Brain Network (HBN) EEG - Release 5
 * **Study:**
   `on005509` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON005509`, `nan`.
+Also importable as: `ON005509`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 330; recordings: 3326; tasks: 10.
 
 * **Parameters:**
@@ -57944,13 +57952,13 @@ Healthy Brain Network (HBN) EEG - Release 6
 * **Study:**
   `on005510` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON005510`, `nan`.
+Also importable as: `ON005510`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 135; recordings: 1227; tasks: 10.
 
 * **Parameters:**
@@ -58015,13 +58023,13 @@ Healthy Brain Network (HBN) EEG - Release 7
 * **Study:**
   `on005511` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON005511`, `nan`.
+Also importable as: `ON005511`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 381; recordings: 3100; tasks: 10.
 
 * **Parameters:**
@@ -58086,13 +58094,13 @@ Healthy Brain Network (HBN) EEG - Release 8
 * **Study:**
   `on005512` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON005512`, `nan`.
+Also importable as: `ON005512`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 257; recordings: 2320; tasks: 10.
 
 * **Parameters:**
@@ -58157,13 +58165,13 @@ Healthy Brain Network (HBN) EEG - Release 9
 * **Study:**
   `on005514` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON005514`, `nan`.
+Also importable as: `ON005514`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 295; recordings: 2885; tasks: 10.
 
 * **Parameters:**
@@ -58228,13 +58236,13 @@ Healthy Brain Network (HBN) EEG - Release 10
 * **Study:**
   `on005515` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON005515`, `nan`.
+Also importable as: `ON005515`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 533; recordings: 2516; tasks: 8.
 
 * **Parameters:**
@@ -58299,13 +58307,13 @@ Healthy Brain Network (HBN) EEG - Release 11
 * **Study:**
   `on005516` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON005516`, `nan`.
+Also importable as: `ON005516`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 430; recordings: 3397; tasks: 8.
 
 * **Parameters:**
@@ -58370,13 +58378,13 @@ Dataset of Visual and Audiovisual Stimuli in Virtual Reality from the Edzna Arch
 * **Study:**
   `on005628` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON005628`, `nan`.
+Also importable as: `ON005628`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 102; recordings: 306; tasks: 1.
 
 * **Parameters:**
@@ -58441,13 +58449,13 @@ TDCS Modulation of Visual Cortex in Motor Imagery
 * **Study:**
   `on006126` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON006126`, `nan`.
+Also importable as: `ON006126`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 5; recordings: 90; tasks: 6.
 
 * **Parameters:**
@@ -58512,13 +58520,13 @@ FFR-active-listening
 * **Study:**
   `on007175` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON007175`, `nan`.
+Also importable as: `ON007175`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 41; recordings: 41; tasks: 1.
 
 * **Parameters:**
@@ -58583,13 +58591,13 @@ Longitudinal EEG Test-Retest Reliability in Healthy Individuals
 * **Study:**
   `on007176` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON007176`, `nan`.
+Also importable as: `ON007176`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 45; recordings: 300; tasks: 2.
 
 * **Parameters:**
@@ -58654,13 +58662,13 @@ Exo-EEG Experiment
 * **Study:**
   `on007180` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON007180`, `nan`.
+Also importable as: `ON007180`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 25; recordings: 25; tasks: 1.
 
 * **Parameters:**
@@ -58725,13 +58733,13 @@ Structural MRI, Resting-state fMRI, and PSG/EEG Dataset of Zoster-associated Neu
 * **Study:**
   `on007181` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON007181`, `nan`.
+Also importable as: `ON007181`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 59; recordings: 59; tasks: 1.
 
 * **Parameters:**
@@ -58796,13 +58804,13 @@ Cognitive Workload 8-level arithmetic
 * **Study:**
   `on007262` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON007262`, `nan`.
+Also importable as: `ON007262`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 18; recordings: 18; tasks: 1.
 
 * **Parameters:**
@@ -58867,13 +58875,13 @@ tACS for Patients with Post-Stroke Anomia
 * **Study:**
   `on007315` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON007315`, `nan`.
+Also importable as: `ON007315`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 2; recordings: 14; tasks: 1.
 
 * **Parameters:**
@@ -58938,13 +58946,13 @@ A COVID-19 survivors and close contacts EEG dataset
 * **Study:**
   `on007823` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON007823`, `nan`.
+Also importable as: `ON007823`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 169; recordings: 169; tasks: 1.
 
 * **Parameters:**
@@ -59009,13 +59017,13 @@ Loneliness EEG - Roving Oddball Task
 * **Study:**
   `on007827` (NeMAR)
 * **Author (year):**
-  `nan`
+  —
 * **Canonical:**
   —
 
-Also importable as: `ON007827`, `nan`.
+Also importable as: `ON007827`.
 
-Modality: `eeg`.
+Modality: `eeg`; Subject type: `Unknown`.
 Subjects: 99; recordings: 99; tasks: 1.
 
 * **Parameters:**

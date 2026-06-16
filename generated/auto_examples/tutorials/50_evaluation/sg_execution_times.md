@@ -2,7 +2,7 @@
 
 # Computation times
 
-**00:35.060** total execution time for 6 files **from generated/auto_examples/tutorials/50_evaluation**:
+**00:35.790** total execution time for 6 files **from generated/auto_examples/tutorials/50_evaluation**:
 
 <style scoped>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet" />
@@ -19,9 +19,9 @@ $(document).ready( function () {
 
 | Example                                                                                                                                                                                                           | Time      |   Mem (MB) |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------------|
-| [Benchmark EEGDash with MOABB](plot_55_moabb_interop.md#sphx-glr-generated-auto-examples-tutorials-50-evaluation-plot-55-moabb-interop-py) (`plot_55_moabb_interop.py`)                                           | 00:30.613 |          0 |
-| [Compare two decoding pipelines](plot_54_compare_two_pipelines.md#sphx-glr-generated-auto-examples-tutorials-50-evaluation-plot-54-compare-two-pipelines-py) (`plot_54_compare_two_pipelines.py`)                 | 00:01.942 |          0 |
-| [Cross-session decoding evaluation](plot_52_cross_session_evaluation.md#sphx-glr-generated-auto-examples-tutorials-50-evaluation-plot-52-cross-session-evaluation-py) (`plot_52_cross_session_evaluation.py`)     | 00:00.827 |          0 |
-| [Within-subject decoding evaluation](plot_50_within_subject_evaluation.md#sphx-glr-generated-auto-examples-tutorials-50-evaluation-plot-50-within-subject-evaluation-py) (`plot_50_within_subject_evaluation.py`) | 00:00.676 |          0 |
-| [Cross-subject decoding evaluation](plot_51_cross_subject_evaluation.md#sphx-glr-generated-auto-examples-tutorials-50-evaluation-plot-51-cross-subject-evaluation-py) (`plot_51_cross_subject_evaluation.py`)     | 00:00.558 |          0 |
-| [Decoding accuracy learning curves](plot_53_learning_curves.md#sphx-glr-generated-auto-examples-tutorials-50-evaluation-plot-53-learning-curves-py) (`plot_53_learning_curves.py`)                                | 00:00.443 |          0 |
+| [Benchmark EEGDash with MOABB](plot_55_moabb_interop.md#sphx-glr-generated-auto-examples-tutorials-50-evaluation-plot-55-moabb-interop-py) (`plot_55_moabb_interop.py`)                                           | 00:32.388 |          0 |
+| [Compare two decoding pipelines](plot_54_compare_two_pipelines.md#sphx-glr-generated-auto-examples-tutorials-50-evaluation-plot-54-compare-two-pipelines-py) (`plot_54_compare_two_pipelines.py`)                 | 00:01.472 |          0 |
+| [Cross-session decoding evaluation](plot_52_cross_session_evaluation.md#sphx-glr-generated-auto-examples-tutorials-50-evaluation-plot-52-cross-session-evaluation-py) (`plot_52_cross_session_evaluation.py`)     | 00:00.631 |          0 |
+| [Within-subject decoding evaluation](plot_50_within_subject_evaluation.md#sphx-glr-generated-auto-examples-tutorials-50-evaluation-plot-50-within-subject-evaluation-py) (`plot_50_within_subject_evaluation.py`) | 00:00.526 |          0 |
+| [Cross-subject decoding evaluation](plot_51_cross_subject_evaluation.md#sphx-glr-generated-auto-examples-tutorials-50-evaluation-plot-51-cross-subject-evaluation-py) (`plot_51_cross_subject_evaluation.py`)     | 00:00.431 |          0 |
+| [Decoding accuracy learning curves](plot_53_learning_curves.md#sphx-glr-generated-auto-examples-tutorials-50-evaluation-plot-53-learning-curves-py) (`plot_53_learning_curves.py`)                                | 00:00.342 |          0 |

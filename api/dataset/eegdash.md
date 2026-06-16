@@ -10,6 +10,7 @@
     * [eegdash.dataset.exceptions module](eegdash.dataset.exceptions.md)
     * [eegdash.dataset.io module](eegdash.dataset.io.md)
     * [eegdash.dataset.registry module](eegdash.dataset.registry.md)
+    * [eegdash.dataset.snapshot module](eegdash.dataset.snapshot.md)
   * [Module contents](eegdash.dataset.md#module-contents)
 * [eegdash.hbn package](eegdash.hbn.md)
   * [Submodules](eegdash.hbn.md#submodules)
